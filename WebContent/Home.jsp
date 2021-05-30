@@ -32,6 +32,6 @@ h1{color :DARKGOLDENROD;}
 	<td><button onClick="window.location.href='Login.jsp'">User Login</button></td>
 	</tr>
 </table>
-
+<img  src="Jenkins.jpg" align ="center">
 </body>
 </html>
